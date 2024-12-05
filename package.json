@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "echarts": "^5.5.1"
-  }
+  },
+  "scripts": {
+  "deploy": "gh-pages -d dist"
+}
 }
